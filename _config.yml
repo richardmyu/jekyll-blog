@@ -22,13 +22,13 @@ title: YUM
 email: richardminyu@foxmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   悟已往之不谏，知来者之可追，实迷途其未远，觉今是而昨非
-baseurl: "/jekyll-blog/" # the subpath of your site, e.g. /blog
-url: "https://richardmyu.github.io/jekyll-blog/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/jekyll-blog" # the subpath of your site, e.g. /blog
+url: "https://richardmyu.github.io/jekyll-blog" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  yum
 
 # Build settings
-theme: minima
+theme: jekyll-theme-persephone
 plugins:
   - jekyll-feed
 
